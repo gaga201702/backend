@@ -1,0 +1,7 @@
+python setup.py install
+(
+https://github.com/hardikvasa/google-images-download
+hay
+https://github.com/agermanidis/autosub
+)
+
